@@ -21,7 +21,7 @@ The Unit Converter is a simple web application that allows users to convert vari
 
 ### Steps:
 1. Download or clone the repository to your local machine.
-2. Open the `pr1.html` file in your browser.
+2. Open the `index.html` file in your browser.
 3. The application should be ready to use immediately.
 
 ## Usage
